@@ -28,7 +28,7 @@ Currently shipping **Beibei Studio**, an iOS **Camp-Finder** app, and an outfit 
 
 <div align="left">
   
-[**→ Full project repo**]([https://github.com/azzou02/sentiment-ai](https://github.com/azzou02?tab=repositories)) <!-- update link when public -->
+[**→ Full project repo**](https://github.com/azzou02?tab=repositories)
 
 </div>
 
