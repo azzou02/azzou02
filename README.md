@@ -2,7 +2,7 @@
 _Rising junior @ Vanderbilt • CS × Math × Art • Break Through Tech AI/ML Fellow_
 
 I love to build playful, human-centred software at the intersection of **front-end craft and creative coding**.  
-Currently shipping **Beibei Studio**, an iOS **Camp-Finder** app, and an outfit generator.  
+Currently shipping **Beibei Studio** and an outfit generator.  
 
 <br/>
 
