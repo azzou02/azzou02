@@ -1,8 +1,7 @@
 # Hi, I’m **Alison Zou**
 _Rising junior @ Vanderbilt • CS × Math × Art • Break Through Tech AI/ML Fellow_
 
-I love to build playful, human-centred software at the intersection of **front-end craft and creative coding**.  
-Currently shipping **Beibei Studio** and an outfit generator.  
+I love to build playful, human-centred software at the intersection of **front-end craft and creative coding**.   
 
 <br/>
 
@@ -21,7 +20,6 @@ Currently shipping **Beibei Studio** and an outfit generator.
 |---------|------------|--------------------|
 | **Beibei Studio** | Animated personal site for art + fashion + sports + tech musings | Next.js · TypeScript · Tailwind |
 | **Frogalogue** | Interactive Processing sketch: guide Betty the frog through an art gallery | Processing · Java |
-| **Purrsona** | Cat-themed Myers-Briggs quiz with micro-interactions | React · Vite · CSS Modules |
 | **EU Blog** | Travel journal from Paris–Florence–Milan Maymester; MDX + map embeds | HTML · CSS · JavaScript |
 
 > _See more in the pinned section of my profile._
